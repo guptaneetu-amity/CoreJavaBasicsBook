@@ -1,6 +1,6 @@
 package book;
 
-//PROGRAM 1.3.2
+//PROGRAM 1.4.2
 /* Program to print a simple hello string on console and add to numbers
 */
 
